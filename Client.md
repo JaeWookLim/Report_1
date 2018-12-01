@@ -23,6 +23,13 @@ Cupcake, Donut, Eclair으로 시작하여 Kitkat, MashMallow 등을 거쳐 2018�
 
 ### Kotlin
 
-Kotlin은 2011년 JetBrains사가 발표한 프로그래밍 언어이다.
+Kotlin은 IntelliJ IDEA 개발사로 알려져있는데 JetBrains사가 2011년 발표한 프로그래밍 언어이다.
+
+간결한 문법을 가지고 있으며, 세미콜론을 반드시 사용할 필요 없다는 특징을 가지고 있다.
+
+안드로이드, iOS, 라즈베리 파이, JavaScript 등을 개발 할 때 사용할 수 있다.
 
 Java와 상호 운용이 가능하며 구글이 안드로이드 공식 언어로 채택하여서 앞으로 안드로이드에서 개발되는 소프트웨어들에는 Kotlin이 Java에 비하여 더 많이 쓰일 것이라 생각된다.
+
+### 리눅스
+
